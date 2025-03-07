@@ -13,11 +13,9 @@
 
 **My Skills:**
 
-<p align="left">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" /> </a>
-</p>
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 <p align="center">
 <a href="https://github.com/YourUserName">
@@ -43,8 +41,3 @@
 * [Email](Your Email Address) 📧
 
 Let's connect and explore how technology can drive business success! 🤝
-
-<!---
-Gitdeftie/Gitdeftie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
