@@ -4,8 +4,8 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Business+Graduate+%F0%9F%92%BC+%7C+Aspiring+Developer+%F0%9F%92%BB;Bridging+Strategy+%26+Implementation;Building+Tools+for+Real-World+Problems+%F0%9F%9B%A0%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=gitdeftie&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/gitdeftie?label=Followers&style=social" alt="GitHub followers" />
   
 </div>
 
@@ -62,11 +62,11 @@ const profile = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitdeftie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitdeftie&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitdeftie&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ const profile = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gitdeftie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -82,7 +82,7 @@ const profile = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitdeftie&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -99,7 +99,7 @@ const profile = {
 <details>
 <summary><b>🎯 [Project Name 1] - Business Problem Solver</b></summary>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=REPO-NAME&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR-USERNAME/REPO-NAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gitdeftie&repo=REPO-NAME&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR-USERNAME/REPO-NAME)
 
 **🔥 What it does:**
 - Brief description of the project and its purpose
